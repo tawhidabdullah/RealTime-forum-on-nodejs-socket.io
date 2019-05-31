@@ -1,0 +1,25 @@
+{
+  "name": "realtime-forum-with-socket.io",
+  "version": "1.0.0",
+  "description": "A Realtime forum application ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawhidabdullah/RealTime-forum-on-nodejs-socket.io.git"
+  },
+  "author": "Tawhid Abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tawhidabdullah/RealTime-forum-on-nodejs-socket.io/issues"
+  },
+  "homepage": "https://github.com/tawhidabdullah/RealTime-forum-on-nodejs-socket.io#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
